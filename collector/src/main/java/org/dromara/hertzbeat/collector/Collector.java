@@ -11,5 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Collector {
     public static void main(String[] args) {
         SpringApplication.run(Collector.class, args);
+        System.out.println("tharini");
     }
 }
+
